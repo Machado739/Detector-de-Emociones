@@ -1,0 +1,2 @@
+Pérdida en prueba: 1.1189
+Precisión en prueba: 33.23%
